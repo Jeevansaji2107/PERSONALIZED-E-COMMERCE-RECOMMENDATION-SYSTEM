@@ -51,7 +51,8 @@ This project solves the problem of **information overload** in online shopping b
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecommerce-recommendation-system.git
+git clone https://github.com/Jeevansaji2107/PERSONALIZED-E-COMMERCE-RECOMMENDATION-SYSTEM.git
+cd PERSONALIZED-E-COMMERCE-RECOMMENDATION-SYSTEM
 cd ecommerce-recommendation-system
 
 # Create a virtual environment
