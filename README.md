@@ -43,7 +43,7 @@ This project solves the problem of **information overload** in online shopping b
 
 | Login Page | Recommendation Dashboard | Evaluation |
 |------------|---------------------------|------------|
-| ![Login](https://github.com/Jeevansaji2107/PERSONALIZED-E-COMMERCE-RECOMMENDATION-SYSTEM/blob/main/Screenshot%202025-05-22%20141258.png) | ![UI](https://github.com/Jeevansaji2107/PERSONALIZED-E-COMMERCE-RECOMMENDATION-SYSTEM/blob/main/Screenshot%202025-05-22%20141930.png) | ![Heatmap](screenshots/heatmap.png) |
+| ![Login](https://github.com/Jeevansaji2107/PERSONALIZED-E-COMMERCE-RECOMMENDATION-SYSTEM/blob/main/Screenshot%202025-05-22%20141258.png) | ![UI](https://github.com/Jeevansaji2107/PERSONALIZED-E-COMMERCE-RECOMMENDATION-SYSTEM/blob/main/Screenshot%202025-05-22%20141930.png) | ![RATING DISTRIBUTION](https://github.com/Jeevansaji2107/PERSONALIZED-E-COMMERCE-RECOMMENDATION-SYSTEM/blob/main/Screenshot%202025-05-22%20142311.png) |
 
 ---
 
